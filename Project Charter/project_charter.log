@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  7 JUL 2016 09:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  7 JUL 2016 09:51
 entering extended mode
 **./project_charter.tex
 (project_charter.tex
@@ -619,13 +619,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 11.52008pt on input line 77.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 8.64006pt on input line 78.
-LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 78.
-
-
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 78.
-
-[1
+ [1
 
 {C:/Users/Christian Garcia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <
 ./images/ribbonbanner.jpg>]
@@ -640,8 +634,8 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 \vh@hstfile=\write4
 \openout4 = `project_charter.hst'.
 
- (project_charter.ver) (project_charter.ver)
-(project_charter.ver
+
+(project_charter.ver) (project_charter.ver) (project_charter.ver
 Underfull \hbox (badness 1205) in paragraph at lines 12--13
 []|\T1/mdbch/m/n/10.95 AJ, EF, NR, NH,
  []
@@ -650,11 +644,7 @@ Underfull \hbox (badness 1205) in paragraph at lines 12--13
 Underfull \vbox (badness 10000) detected at line 18
  []
 
-)
-
-LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 91.
-
-[2] (project_charter.toc
+) [2] (project_charter.toc
 LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 10
 .
 
@@ -748,23 +738,12 @@ Overfull \hbox (1.4296pt too wide) detected at line 33
 \tf@toc=\write5
 \openout5 = `project_charter.toc'.
 
-
-
-LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 95.
-
-[3] (project_charter.lof)
+ [3] (project_charter.lof)
 \tf@lof=\write6
 \openout6 = `project_charter.lof'.
 
-
-
-LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 100.
-
-[4] (tex/vision.tex) (tex/mission.tex) (tex/success_criteria.tex)
-
-LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 109.
-
-[5] (tex/background.tex) (tex/related_work.tex
+ [4] (tex/vision.tex) (tex/mission.tex)
+(tex/success_criteria.tex) [5] (tex/background.tex) (tex/related_work.tex
 
 LaTeX Warning: Citation `Rubin2012' on page 6 undefined on input line 1.
 
@@ -772,11 +751,8 @@ LaTeX Warning: Citation `Rubin2012' on page 6 undefined on input line 1.
 (tex/facilities_equipment.tex) (tex/cost_proposal.tex
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.52008pt on input line 3.
-
-
-LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 6.
-
-[6]) (tex/documentation_reporting.tex
+ [6])
+(tex/documentation_reporting.tex
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 10.51207pt on input line 12.
 
@@ -790,40 +766,23 @@ Package pdftex.def Info: images/test_image.jpg used on input line 26.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 32.
-
-[7]
-
-LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 50.
-
-[8 <./images/test_image.jpg>])
-
-LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 126.
-
-[9]
+[7] [8 <./images/test_image.jpg>]) [9]
 No file project_charter.bbl.
-
-Package lastpage Warning: Rerun to get the references right on input line 133.
-
 
 AED: lastpage setting LastPage
 (project_charter.aux)
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  ) 
 Here is how much of TeX's memory you used:
- 6046 strings out of 493335
- 87290 string characters out of 3125466
- 150141 words of memory out of 3000000
- 9345 multiletter control sequences out of 15000+200000
- 63539 words of font info for 75 fonts, out of 3000000 for 9000
+ 6043 strings out of 493335
+ 87260 string characters out of 3125466
+ 150220 words of memory out of 3000000
+ 9344 multiletter control sequences out of 15000+200000
+ 60603 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,12n,43p,794b,368s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 38i,11n,43p,794b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Christian Garcia/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/
 fontname/texnansi.enc}<C:/Users/Christian Garcia/AppData/Local/Programs/MiKTeX 
 2.9/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/Christian Garcia/AppData/
@@ -831,7 +790,7 @@ Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Chr
 istian Garcia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md
 -chr7y.pfb><C:/Users/Christian Garcia/AppData/Local/Programs/MiKTeX 2.9/fonts/t
 ype1/mathdesign/mdbch/md-chr8t.pfb>
-Output written on project_charter.pdf (9 pages, 136573 bytes).
+Output written on project_charter.pdf (9 pages, 137105 bytes).
 PDF statistics:
  51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
