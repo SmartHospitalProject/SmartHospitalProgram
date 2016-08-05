@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Log In page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+    
+<style>
+    
+    .colorgraph {
+      height: 5px;
+      border-top: 0;
+      background: #c4e17f;
+      border-radius: 5px;
+      background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+      background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+      background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+      background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    }
+    .smart_logo{
+        height: 80px;
+        width:465px;
+        image-orientation: inherit;
+    }
+
+</style>
+    
+<body>
+    
+    <div class="container">
+
+    <div class="row" style="margin-top:20px">
+        <div class="col-xs-12 col-sm-8 col-md-6 col-sm-offset-2 col-md-offset-3">
+            <form  role="form" method="post">
+                <fieldset>
+                    <img class="smart_logo" src="images/graphicbanner.png"/>
+                    <h2>Please Sign Up</h2>
+                    <hr class="colorgraph">
+                    
+                    <div class="form-group">
+                        <input type="name" name="firstname" id="firstname" class="form-control input-lg" placeholder="First Name" required>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="name" name="lastname" id="lastname" class="form-control input-lg" placeholder="Last Name" required>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="email" name="email" id="email" class="form-control input-lg" placeholder="Email Address" required>
+                    </div>
+                    
+                    
+                    <div class="form-group">
+                        <input type="password" name="password" id="password" class="form-control input-lg" placeholder="Password" required>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="password" name="password" id="password" class="form-control input-lg" placeholder="Confirm password" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="security_question" name="security_question" id="security" class="form-control input-lg" placeholder="Type your security question" required>
+                    </div>
+                    <div class="form-group">
+                        <input type="security_answer" name="security_answer" id="security" class="form-control input-lg" placeholder="Type your answer" required>
+                    </div>
+
+                    <div class="row">
+                    <div class="col-xs-4 col-sm-3 col-md-3">
+                        <span class="button-checkbox">
+                            <button type="button" class="btn" data-color="info" tabindex="7">I Agree</button>
+                            <input type="checkbox" name="t_and_c" id="t_and_c" class="hidden" value="1">
+                        </span>
+                    </div>
+                    <div class="col-xs-8 col-sm-9 col-md-9">
+                         By clicking <strong class="label label-primary">Register</strong>, you agree to the <a href="#" data-toggle="modal" data-target="#t_and_c_m">Terms and Conditions</a> set out by this site, including our Cookie Use.
+                    </div>
+                     </div>
+
+                    <hr class="colorgraph">
+                    <div class="row">
+
+                        <div class="col-xs-6 col-sm-6 col-md-6">
+                           <input type="submit" class="btn btn-lg btn-primary btn-block" value="Register">
+                            
+                        </div>
+                        
+                        <div class="col-xs-6 col-sm-6 col-md-6">
+                        <a href="log_in.html" class="btn btn-lg btn-success btn-block">Cancel</a>
+                        
+                            
+					</div>
+                    </div>
+
+                </fieldset>
+            </form>
+        </div>
+    </div>
+
+    </div>
+    <script type="text/javascript" src="javascript.js"></script>
+    <script type="text/javascript" src="connection.js"></script>
+    </body>
+</html>
