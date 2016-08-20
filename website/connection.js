@@ -1,117 +1,94 @@
-var mysql      = require('mysql');
-/*var database = mysql.createConnection({
+var mysql   = require('mysql');
+var fs      = require('fs');
+
+/*var localdatabase = mysql.createConnection({
 	host     : 'localhost:3306',
 	user     : 'root',
 	password : '1234',
 	database : 'mydatabase'
 });*/
-var database = mysql.createConnection({
-	host     : 'uta-smarthospital.cvx1abf3lv8q.us-west-2.rds.amazonaws.com',
-	user     : 'utasmart',
-	password : 'utasmart',
-	database : 'smart_hospital'
-});
+var database;
 var currentUserID = 0;
 var currentUserEmail = "";
 var currentUserName = "";
-
-//Ignore loadJSON and init functions. I will be using them to connect without
-//saving local host, user, password, database names. -Edward.
-function loadJSON(callback) {
-  var xobj = new XMLHttpRequest();
-  xobj.overrideMimeType("application/json");
-  xobj.open('GET', 'my_data.json', true); // Replace 'my_data' with the path to your file
-  xobj.onreadystatechange = function () {
-    if (xobj.readyState == 4 && xobj.status == "200") {
-      // Required use of an anonymous callback as .open will NOT return a value 
-      //but simply returns undefined in asynchronous mode
-      callback(xobj.responseText);
-    }
-  };
-  xobj.send(null);
-}
-
-function init() {
-  loadJSON(function(response) {
-    // Parse JSON string into object
-    var actual_JSON = JSON.parse(response);
-  });
-}
-
 
 //////////////////////
 //Can code past here.
 //////////////////////
 
-database.connect();
-
-//get_all_login_data();
-log_in("edward.fankhauser@mavs.uta.edu", "123456seven", move_to_main_page);
-
-database.end();
+node_connect_and_run( log_in("edward.fankhauser@mavs.uta.edu", "123456seven") );
 
 
-//Function defines SQL query to get all inventory items.
-function get_all_inventory() {
-  do_query('SELECT * from inventory');
-}
+//Function will connect db, run a query, then close db.
+function node_connect_and_run(query_function) {
+  fs.readFile('./json/utasmart_data.json', 'utf8', function (err, data, query_function) {
+    if (err) throw err;
+    //mess with data here
+    database = mysql.createConnection(JSON.parse(data))
+    //alternately, local db for testing...
+    //database = localdatabase;
 
-function get_all_login_data() {
-  query = 'select * from dummy_login_table';
-  do_query(query);
-}
+    database.connect();
 
-function log_in(email, password, callback) {
-  //Notice the formatting for extra spaces, quotes, renaming count(*) as count.
-  query = 'select *, count(*) as count from dummy_login_table ';
-  query += 'where email = "' + email + '" and password = "' + password + '"';
+    query_function();
 
-  //do_query(query);
-
-  //Start connection
-  //database.connect();
-
-  return database.query(query, function run_query(err, rows, fields) {
-    if(err) { throw err; } //throw an error if there is one...
-
-    if(rows[0].count == 1) {
-      //Only one row matching that login matched.
-      login_successful(rows, callback);
-    } else {
-      console.log("Login Unsuccessful");
-    }
-
-    //Close connection
-    //database.end();
-  })
-}
-
-function login_successful(rows, callback) {
-  //do something now
-  currentUserID = rows[0].iddummy_login_table;
-  currentUserEmail = rows[0].email;
-  currentUserName = rows[0].username;
-
-  callback(currentUserID);
-}
-
-function move_to_main_page(userID) {
-  //put variables in local cookie, move to the main dashboard
-  //dashboard should load data based on cookie info
-  //disconnect db before moving to new page...
-  console.log("thanks for logging in, " + currentUserName + "!");
+    database.end();
+  });
 }
 
 //Runs a query on the database defined at top.
-function do_query(query, ret) {
-  //database.connect();
-
+function node_do_query(query, ret) {
   database.query(query, function(err, rows, fields) {
     if(!err) {
       console.log('The solution is: ', rows);
     } else
       console.log('Error while performing Query.');
   });
+}
 
-  //database.end();
+//Function defines SQL query to get all inventory items.
+function node_get_all_inventory_data() {
+  node_do_query('SELECT * from inventory');
+}
+
+//Alternate example where string is saved first.
+function node_get_all_dummy_login_table_data() {
+  query = 'select * from dummy_login_table';
+  node_do_query(query);
+}
+
+function node_log_in(email, password) {
+  //Notice the formatting for extra spaces, quotes, renaming count(*) as count.
+  query  = 'select *, count(*) as count ';
+  query += 'from dummy_login_table ';
+  query += 'where email = "' + email + '" and password = "' + password + '"';
+
+  return database.query(query, function(err, rows, fields) {
+    if(err) { throw err; } //throw an error if there is one...
+
+    if(rows[0].count == 1) {
+      //Only one row matching that login matched.
+      login_successful(rows, node_go_to_main_page);
+    } else {
+      console.log("Login Unsuccessful");
+    }
+
+  })
+}
+
+function node_login_successful(rows, next_page) {
+  //do something now
+  currentUserID = rows[0].iddummy_login_table;
+  currentUserEmail = rows[0].email;
+  currentUserName = rows[0].username;
+  //disconnect db before moving to new page...
+  database.end();
+
+  next_page(currentUserID);
+}
+
+function node_go_to_main_page(userID) {
+  //put variables in local cookie, move to the main dashboard
+  //dashboard should load data based on cookie info
+  console.log("thanks for logging in, " + currentUserName + "!");
 }
