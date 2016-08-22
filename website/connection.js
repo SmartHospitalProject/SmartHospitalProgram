@@ -16,12 +16,12 @@ var currentUserName = "";
 //Can code past here.
 //////////////////////
 
-node_connect_and_run( log_in("edward.fankhauser@mavs.uta.edu", "123456seven") );
+node_connect_and_run( node_log_in );
 
 
 //Function will connect db, run a query, then close db.
-function node_connect_and_run(query_function) {
-  fs.readFile('./json/utasmart_data.json', 'utf8', function (err, data, query_function) {
+function node_connect_and_run(callback) {
+  fs.readFile('./website/json/utasmart_data.json', 'utf8', function (err, data) {
     if (err) throw err;
     //mess with data here
     database = mysql.createConnection(JSON.parse(data))
@@ -30,9 +30,9 @@ function node_connect_and_run(query_function) {
 
     database.connect();
 
-    query_function();
+    if(callback) callback("edward.fankhauser@mavs.uta.edu", "123456seven");
 
-    database.end();
+    if(database) { database.end(); console.log("disconnected"); }
   });
 }
 
@@ -68,7 +68,7 @@ function node_log_in(email, password) {
 
     if(rows[0].count == 1) {
       //Only one row matching that login matched.
-      login_successful(rows, node_go_to_main_page);
+      node_login_successful(rows, node_go_to_main_page);
     } else {
       console.log("Login Unsuccessful");
     }
@@ -82,7 +82,7 @@ function node_login_successful(rows, next_page) {
   currentUserEmail = rows[0].email;
   currentUserName = rows[0].username;
   //disconnect db before moving to new page...
-  database.end();
+  //database.end();
 
   next_page(currentUserID);
 }
