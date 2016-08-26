@@ -1,0 +1,86 @@
+CREATE TABLE Medicine
+(
+MedID varchar(255),
+Descrip varchar(255),
+Quality varchar(255),
+PRIMARY KEY (MedID)
+);
+
+CREATE TABLE Building
+(	
+	BLDG_Num int,
+	Room_Num int,
+	Inv_Num int,
+	Medicine varchar(255),
+	FOREIGN KEY (Medicine) REFERENCES Medicine(MedID),
+	PRIMARY KEY (BLDG_Num, Room_Num)
+);
+
+CREATE TABLE Simulation
+(
+	SimID int,
+	Name varchar(255),
+	SimTime varchar(255),
+	PRIMARY KEY (SimID)
+);
+
+CREATE TABLE Questions
+(
+	QID int,
+	Q_Answer varchar(255),
+	PRIMARY KEY (QID)
+);
+
+CREATE TABLE Person
+(
+	ID int,
+	Username varchar(255),
+	FirstName varchar(255),
+	LastName varchar(255),
+	Email varchar(255),
+	Password varchar(255),
+	Status varchar(255),
+	PRIMARY KEY (ID)
+);
+
+CREATE TABLE Equipment
+(
+	Inv_Num int,
+	Serl_Num varchar(255),
+	Description varchar(255),
+    BLDG int,
+	Room int,
+	Locnotes varchar(255),
+	Item_type varchar(255),
+	list varchar(255),
+    PRIMARY KEY (Inv_Num),
+	FOREIGN KEY (BLDG, Room) REFERENCES Building(BLDG_Num, Room_Num)
+);
+
+CREATE TABLE Att_Sim
+(
+	SimID int,
+	ID int,
+	FOREIGN KEY (SimID) REFERENCES Simulation(SimID),
+	FOREIGN KEY (ID) REFERENCES Person(ID),
+	PRIMARY KEY (SimID, ID)
+);
+
+CREATE TABLE Work_Hours
+(
+	ID int,
+	Hours int,
+	FOREIGN KEY (ID) REFERENCES Person(ID),
+	PRIMARY KEY (ID)
+);
+
+CREATE TABLE Security_Answers
+(
+	QNumber int,
+	ID int,
+	Answer varchar(255),
+	FOREIGN KEY (QNumber) REFERENCES Questions(QID),
+	FOREIGN KEY (ID) REFERENCES Person(ID),
+	PRIMARY KEY (QNumber, ID)
+);
+
