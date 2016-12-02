@@ -2,15 +2,15 @@ This section describes our system by presenting it in different layers, illustra
 
 \begin{figure}[h!]
 	\centering
- 	\includegraphics[width=1\textwidth]{images/LayerBlockDiagram2}
+ 	\includegraphics[width=0.3\textwidth]{images/LayerBlockDiagram}
  \caption{A simple architectural layer diagram}
 \end{figure}
 
-\subsection{Data Capture Layer Description}
- 
+\subsection{Client}
+This layer takes input from the user and stores it in the database. It also takes data from the database as well as static content for the webpages from the server in order to display the graphical user interface , along with their data, if they have any. Take the inventory page, for example. The client presses on the inventory tab. The server obtains data from the database, such as what the inventory items are, and the static content for the webpages from the server, and these are linked together to have data loaded on the actual graphical user interface to the client. 
 
-\subsection{Data Processing Layer}
-This layer takes information inputted by the user, such as registration information, and inputs this information in the database. This information is then evaluated when the user tries to login using their credentials, which are their email and password. Upon logging in, the user can input medications on the Medication tab, and this information will be stored in the database. Other information, such as user information, which can be accessed from the Management tab, can be edted, and thus changed in the database. 
+\subsection{Server}
+This layer contains static information for the webpages, such as the CSS, Bootstrap, HTML, and php code needed to display the web page, and contains the interface that is needed to link the webpages with the data, if they needed any, as described in the client layer.
 
-\subsection{Layer Z Description}
-Each layer should be described separately in detail. Descriptions should include the features, functions, critical interfaces and interactions of the layer. The description should clearly define the services that the layer provides. Also include any conventions that your team will use in describing the structure: naming conventions for layers, subsystems, modules, and data flows; interface specifications; how layers and subsystems are defined; etc. 
+\subsection{Data}
+This layer stores all the information that needs to be used by users of the website, such as the actual inventory items to be stored in the lab. 

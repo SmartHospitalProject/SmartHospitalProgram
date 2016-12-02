@@ -1,8 +1,8 @@
 \contentsline {section}{\numberline {1}Introduction}{5}
 \contentsline {section}{\numberline {2}System Overview}{6}
-\contentsline {subsection}{\numberline {2.1}Data Capture Layer Description}{6}
-\contentsline {subsection}{\numberline {2.2}Data Processing Layer}{6}
-\contentsline {subsection}{\numberline {2.3}Layer Z Description}{6}
+\contentsline {subsection}{\numberline {2.1}Client}{6}
+\contentsline {subsection}{\numberline {2.2}Server}{6}
+\contentsline {subsection}{\numberline {2.3}Data}{6}
 \contentsline {section}{\numberline {3}Subsystem Definitions \& Data Flow}{7}
 \contentsline {section}{\numberline {4}X Layer Subsystems}{8}
 \contentsline {subsection}{\numberline {4.1}Subsystem 1}{8}
