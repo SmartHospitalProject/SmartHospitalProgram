@@ -1,22 +1,24 @@
-In this section, the layer is described in some detail in terms of its specific subsystems. Describe each of the layers and its subsystems in a separate chapter/major subsection of this document. The content of each subsystem description should be similar. Include in this section any special considerations and/or trade-offs considered for the approach you have chosen.
+In this section, the Server Layer is described in some detail in terms of its specific subsystems.
 
-\subsection{Subsystem 1}
-This section should be a general description of a particular subsystem for the given layer. For most subsystems, an extract of the architectural block diagram with data flows is useful. This should consist of the subsystem being described and those subsystems with which it communicates.
+\subsection{PHP Scripts and Interfaces}
+This section should be a general description of a particular subsystem for the given layer. For most subsystems, an extract of the architectural block diagram with data flows is useful. This should consist of the subsystem being described and those subsystems with which it communicates. 
+
+Sript Subsystem is a portion of every .php file on the website. This data flows from HTML pages into the PHP scripts which use the information in SQL statements to retrieve or send data to the database. Then, PHP generates code for HTML output.
+
 
 \begin{figure}[h!]
 	\centering
- 	\includegraphics[width=0.60\textwidth]{images/subsystem}
- \caption{Example subsystem description diagram}
+ 	\includegraphics[width=0.60\textwidth]{images/PHPScriptSubsystem}
+ \caption{PHP Script echos table formatting}
 \end{figure}
 
 \subsubsection{Assumptions}
-Any assumptions made in the definition of the subsystem should be listed and described. Pay particular attention to assumptions concerning interfaces and interactions with other layers.
+No Assumptions were made.
 
 \subsubsection{Responsibilities}
-Each of the responsibilities/features/functions/services of the subsystem as identified in the architectural summary must be expanded to more detailed responsibilities. These responsibilities form the basis for the identification of the finer-grained responsibilities of the layer's internal subsystems. Clearly describe what each subsystem does.
+The PHP script is the backbone of the website. It is hosted on a internet client with access to running PHP scripts. PHP provides a means to communicate with the database and send information to client systems. Each GUI system has a backend PHP interface to display features - such as tables, user information, and create data - which pulls or pushes data to the database.
 
 \subsubsection{Subsystem Interfaces}
-Each of the inputs and outputs for the subsystem are defined here. Create a table with an entry for each labelled interface that connects to this subsystem. For each entry, describe any incoming and outgoing data elements will pass through this interface.
 
 \begin {table}[H]
 \caption {Subsystem interfaces} 
@@ -24,15 +26,28 @@ Each of the inputs and outputs for the subsystem are defined here. Create a tabl
     \begin{tabular}{ | p{1cm} | p{6cm} | p{3cm} | p{3cm} |}
     \hline
     ID & Description & Inputs & Outputs \\ \hline
-    \#xx & Description of the interface/bus & \pbox{3cm}{input 1 \\ input 2} & \pbox{3cm}{output 1}  \\ \hline
-    \#xx & Description of the interface/bus & \pbox{3cm}{N/A} & \pbox{3cm}{output 1}  \\ \hline
+    \#1 & MySQL & \pbox{3cm}{SQL statement \\ Connection Data} & \pbox{3cm}{SQL Rows}  \\ \hline
+    \#2 & $_POST() & _GET() & \pbox{3cm}{N/A} & \pbox{3cm}{PlainText Variable}  \\ \hline
+    \#3 & echo & \pbox{3cm}{String variable} & \pbox{3cm}{HTML Code}  \\ \hline
     \end{tabular}
 \end{center}
 \end{table}
 
-\subsection{Subsystem 2}
-Repeat for each subsystem
+\subsection{Static File Storage}
+The website's storage system. Internet host stores code, script and image files to be used on the website. 
 
-\subsection{Subsystem 3}
-Repeat for each subsystem
+\begin{figure}[h!]
+	\centering
+ 	\includegraphics[width=0.60\textwidth]{images/FileStorageSubsystem}
+ \caption{The File Browser Layout}
+\end{figure}
 
+\subsubsection{Assumptions}
+No assumptions where made for file storage.
+
+\subsubsection{Responsibilities}
+The responsibility of the file storage is to store scripts, style, html, and security files.
+
+
+\subsubsection{Subsystem Interfaces}
+No system interfaces for file storage.
