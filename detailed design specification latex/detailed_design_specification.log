@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  9 DEC 2016 02:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  9 DEC 2016 02:55
 entering extended mode
-**./architectural_design_specification.tex
-(architectural_design_specification.tex
+**./detailed_design_specification.tex
+(detailed_design_specification.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 
@@ -438,8 +438,8 @@ y\sets.sty"
 Package: sets 
 \c@s@tlength=\count115
 )
-Reading file architectural_design_specification.hst...
-(architectural_design_specification.hst)
+Reading file detailed_design_specification.hst...
+(detailed_design_specification.hst)
 \vh@verfile=\write3
 )
 ("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pbox\pb
@@ -486,8 +486,8 @@ Package: abstract 2009/06/08 v1.2a configurable abstracts
 \absrightindent=\skip76
 \absparindent=\skip77
 \absparsep=\skip78
-) (architectural_design_specification.aux)
-\openout1 = `architectural_design_specification.aux'.
+) (detailed_design_specification.aux)
+\openout1 = `detailed_design_specification.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
@@ -643,7 +643,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 
 {C:/Users/Christian Garcia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <
 ./images/test_image.jpg>]
-\openout3 = `architectural_design_specification.ver'.
+\openout3 = `detailed_design_specification.ver'.
 
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 13.82408pt on input line 87.
@@ -652,17 +652,16 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 13.82408pt on input line 87.
 \vh@hstfile=\write4
-\openout4 = `architectural_design_specification.hst'.
+\openout4 = `detailed_design_specification.hst'.
 
 
-(architectural_design_specification.ver)
-(architectural_design_specification.ver)
-(architectural_design_specification.ver
+(detailed_design_specification.ver) (detailed_design_specification.ver)
+(detailed_design_specification.ver
 Underfull \vbox (badness 10000) detected at line 26
  []
 
-) [2] (architectural_design_specification.toc
-LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 3.
+) [2] (detailed_design_specification.toc
+LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 4.
 
 
 ("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
@@ -670,12 +669,12 @@ ign\mdbch\ot1mdbch.fd"
 File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
 )
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 3.
+(Font)              scaled to size 10.51207pt on input line 4.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
+(Font)              scaled to size 7.68005pt on input line 4.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Try loading font information for OML+mdbch on input line 3.
+(Font)              scaled to size 5.76004pt on input line 4.
+LaTeX Font Info:    Try loading font information for OML+mdbch on input line 4.
 
 
 ("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
@@ -683,12 +682,12 @@ ign\mdbch\omlmdbch.fd"
 File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
 )
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 10.51207pt on input line 3.
+(Font)              scaled to size 10.51207pt on input line 4.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 3.
+(Font)              scaled to size 7.68005pt on input line 4.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 3.
+(Font)              scaled to size 5.76004pt on input line 4.
+LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 4.
 
 
 ("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
@@ -696,12 +695,12 @@ ign\mdbch\omsmdbch.fd"
 File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 3.
+(Font)              scaled to size 10.51207pt on input line 4.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
+(Font)              scaled to size 7.68005pt on input line 4.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 3.
+(Font)              scaled to size 5.76004pt on input line 4.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 4.
 
 
 ("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
@@ -709,18 +708,18 @@ ign\mdbch\omxmdbch.fd"
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 3.
+(Font)              scaled to size 10.51207pt on input line 4.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
+(Font)              scaled to size 7.68005pt on input line 4.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
+(Font)              scaled to size 5.76004pt on input line 4.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 3.
+(Font)              scaled to size 10.51207pt on input line 4.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
+(Font)              scaled to size 7.68005pt on input line 4.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 3.
+(Font)              scaled to size 5.76004pt on input line 4.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 4.
 
 
 ("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
@@ -728,12 +727,12 @@ ign\mdbch\mdamdbch.fd"
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 3.
+(Font)              scaled to size 10.51207pt on input line 4.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
+(Font)              scaled to size 7.68005pt on input line 4.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
-LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 3.
+(Font)              scaled to size 5.76004pt on input line 4.
+LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 4.
 
 
 ("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
@@ -741,103 +740,77 @@ ign\mdbch\mdbmdbch.fd"
 File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
 )
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 3.
+(Font)              scaled to size 10.51207pt on input line 4.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 3.
+(Font)              scaled to size 7.68005pt on input line 4.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 3.
+(Font)              scaled to size 5.76004pt on input line 4.
 )
 \tf@toc=\write5
-\openout5 = `architectural_design_specification.toc'.
+\openout5 = `detailed_design_specification.toc'.
 
- [3] (architectural_design_specification.lof)
+ [3] (detailed_design_specification.lof)
 \tf@lof=\write6
-\openout6 = `architectural_design_specification.lof'.
+\openout6 = `detailed_design_specification.lof'.
 
 
-(architectural_design_specification.lot)
+(detailed_design_specification.lot)
 \tf@lot=\write7
-\openout7 = `architectural_design_specification.lot'.
+\openout7 = `detailed_design_specification.lot'.
 
- [4] (tex/introduction.tex) [5]
-(tex/system_overview.tex
-<images/systemoverview.png, id=20, 849.77475pt x 514.3215pt>
-File: images/systemoverview.png Graphic file (type png)
+ [4] (tex/introduction.tex)
+(tex/system_overview.tex <images/data_flow.png, id=17, 514.17094pt x 554.07pt>
+File: images/data_flow.png Graphic file (type png)
 
-<use images/systemoverview.png>
-Package pdftex.def Info: images/systemoverview.png used on input line 5.
-(pdftex.def)             Requested size: 140.92793pt x 85.29102pt.
+<use images/data_flow.png>
+Package pdftex.def Info: images/data_flow.png used on input line 5.
+(pdftex.def)             Requested size: 422.77664pt x 455.5916pt.
+) [5 <./images/data_flow.png>]
+(tex/x_layer_subsystems.tex
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 9.
-) [6 <./images/systemoverview.png>]
-(tex/data_flow.tex
-<images/LayerBlockDiagram.jpg, id=26, 202.50656pt x 269.50688pt>
-File: images/LayerBlockDiagram.jpg Graphic file (type jpg)
+(Font)              scaled to size 11.52008pt on input line 4.
 
-<use images/LayerBlockDiagram.jpg>
-Package pdftex.def Info: images/LayerBlockDiagram.jpg used on input line 5.
-(pdftex.def)             Requested size: 469.75502pt x 625.19058pt.
-
-
-LaTeX Warning: Float too large for page by 0.7363pt on input line 7.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [7] (tex/x_layer_subsystems.tex
-<images/calendar.jpg, id=31, 126.4725pt x 94.3525pt>
+<images/calendar.jpg, id=21, 126.4725pt x 94.3525pt>
 File: images/calendar.jpg Graphic file (type jpg)
  <use images/calendar.jpg>
-Package pdftex.def Info: images/calendar.jpg used on input line 9.
+Package pdftex.def Info: images/calendar.jpg used on input line 12.
 (pdftex.def)             Requested size: 281.85587pt x 210.27841pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
-(Font)              scaled to size 10.51207pt on input line 13.
-<images/dashboard.jpg, id=32, 129.98563pt x 98.86937pt>
+(Font)              scaled to size 10.51207pt on input line 16.
+
+<images/dashboard.jpg, id=22, 129.98563pt x 98.86937pt>
 File: images/dashboard.jpg Graphic file (type jpg)
 
 <use images/dashboard.jpg>
-Package pdftex.def Info: images/dashboard.jpg used on input line 40.
+Package pdftex.def Info: images/dashboard.jpg used on input line 28.
 (pdftex.def)             Requested size: 281.85587pt x 214.41154pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 60--60
-[]\T1/mdbch/m/n/10.95 true/false state-
- []
-
-<images/management.jpg, id=33, 147.04938pt x 184.69pt>
+[6 <./images/calendar.jpg>]
+<images/management.jpg, id=26, 147.04938pt x 184.69pt>
 File: images/management.jpg Graphic file (type jpg)
 
 <use images/management.jpg>
-Package pdftex.def Info: images/management.jpg used on input line 70.
+Package pdftex.def Info: images/management.jpg used on input line 45.
 (pdftex.def)             Requested size: 281.85587pt x 354.04556pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8] <images/inventory.jpg, id=38, 146.5475pt x 152.06813pt>
+<images/inventory.jpg, id=27, 146.5475pt x 152.06813pt>
 File: images/inventory.jpg Graphic file (type jpg)
 
 <use images/inventory.jpg>
-Package pdftex.def Info: images/inventory.jpg used on input line 102.
+Package pdftex.def Info: images/inventory.jpg used on input line 64.
 (pdftex.def)             Requested size: 281.85587pt x 292.50348pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 124--124
-[]\T1/mdbch/m/n/10.95 true/false state-
- []
-
-) [9] (tex/y_layer_subsystems.tex
-<images/PHPScriptSubsystem.jpg, id=42, 249.18094pt x 153.57375pt>
+) [7 <./images/dashboard.jpg>] (tex/y_layer_subsystems.tex
+<images/PHPScriptSubsystem.jpg, id=32, 249.18094pt x 153.57375pt>
 File: images/PHPScriptSubsystem.jpg Graphic file (type jpg)
 
 <use images/PHPScriptSubsystem.jpg>
@@ -847,74 +820,47 @@ Package pdftex.def Info: images/PHPScriptSubsystem.jpg used on input line 11.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/FileStorageSubsystem.jpg, id=43, 213.79875pt x 128.73094pt>
+<images/FileStorageSubsystem.jpg, id=33, 213.79875pt x 128.73094pt>
 File: images/FileStorageSubsystem.jpg Graphic file (type jpg)
 
 <use images/FileStorageSubsystem.jpg>
-Package pdftex.def Info: images/FileStorageSubsystem.jpg used on input line 41.
+Package pdftex.def Info: images/FileStorageSubsystem.jpg used on input line 26.
 
 (pdftex.def)             Requested size: 281.85587pt x 169.72105pt.
-
+ [8 <./images/management.jpg>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [10] (tex/z_layer_subsystems.tex
-<images/subsystem.png, id=47, 237.13594pt x 242.40562pt>
+) [9 <./images/inventory.jpg> <./images/PHPScriptSubsystem.jpg>] [10 <./images/
+FileStorageSubsystem.jpg>] (tex/z_layer_subsystems.tex
+<images/subsystem.png, id=43, 237.13594pt x 242.40562pt>
 File: images/subsystem.png Graphic file (type png)
 
 <use images/subsystem.png>
-Package pdftex.def Info: images/subsystem.png used on input line 8.
+Package pdftex.def Info: images/subsystem.png used on input line 17.
 (pdftex.def)             Requested size: 281.85587pt x 288.12965pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--27
-[]\T1/mdbch/m/n/10.95 Database is cre-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--27
-\T1/mdbch/m/n/10.95 ated with given
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]\T1/mdbch/m/n/10.95 Table's Col-umn's
- []
-
-
-Underfull \hbox (badness 3138) in paragraph at lines 29--29
-[]\T1/mdbch/m/n/10.95 Information filled
- []
-
-) [11]
-No file architectural_design_specification.bbl.
+ [11 <./images/subsystem.png>]) [12]
+(tex/appendix_a.tex) [13]
+No file detailed_design_specification.bbl.
 
 AED: lastpage setting LastPage
-[12 <./images/LayerBlockDiagram.jpg>] [13 <./images/calendar.jpg> <./images/das
-hboard.jpg>] [14 <./images/management.jpg>] [15 <./images/inventory.jpg> <./ima
-ges/PHPScriptSubsystem.jpg>] [16 <./images/FileStorageSubsystem.jpg> <./images/
-subsystem.png>] (architectural_design_specification.aux) ) 
+(detailed_design_specification.aux) ) 
 Here is how much of TeX's memory you used:
- 6174 strings out of 493335
- 90104 string characters out of 3125466
- 153443 words of memory out of 3000000
- 9470 multiletter control sequences out of 15000+200000
+ 6167 strings out of 493335
+ 89787 string characters out of 3125466
+ 151425 words of memory out of 3000000
+ 9464 multiletter control sequences out of 15000+200000
  60304 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,16n,43p,653b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Christian G
-arcia/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/texnansi.enc}<
-C:/Users/Christian Garcia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstre
-a/charter/bchb8a.pfb><C:/Users/Christian Garcia/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Christian Garcia/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
-Output written on architectural_design_specification.pdf (16 pages, 304233 byte
-s).
+ 38i,11n,43p,494b,302s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Christian Garcia/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/enc/dvips/fontname/texnansi.enc}<C:/Users/Christian Ga
+rcia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstrea/charter/bchb8a.pfb>
+<C:/Users/Christian Garcia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstr
+ea/charter/bchr8a.pfb>
+Output written on detailed_design_specification.pdf (13 pages, 249870 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 63 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
