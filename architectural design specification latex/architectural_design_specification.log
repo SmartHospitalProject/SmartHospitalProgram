@@ -1,16 +1,12 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  9 DEC 2016 02:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  13 DEC 2016 22:47
 entering extended mode
 **./architectural_design_specification.tex
 (architectural_design_specification.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\ar
-ticle.cls"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\article.cls"
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\si
-ze11.clo"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\size11.clo"
 File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -25,26 +21,21 @@ File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometr
-y\geometry.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\geometry\geometry.sty"
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
-s\keyval.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
-iek\ifpdf.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\ifpdf.sty"
 Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
-iek\ifvtex.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\ifvtex.sty"
 Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\ifxet
-ex\ifxetex.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\ifxetex\ifxetex.sty"
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
 \Gm@cnth=\count87
@@ -60,42 +51,33 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen110
 \Gm@dimlist=\toks15
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\geometr
-y\geometry.cfg"))
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fo
-ntenc.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\geometry\geometry.cfg"))
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1
-enc.def"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mathdesign.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mathdesign.sty
+"
 Package: mathdesign 2013/08/29 v2.31 Math Design Project
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\if
-then.sty"
+ ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\ifthen.sty"
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbch\mdbch.cfg")
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbch\mdbch.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\mdbch.cf
+g")
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\mdbch.st
+y"
 Package: mdbch 2013/08/29 v2.31 bitstream bitstream charter + mdbch (Math Desig
 n Project)
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdfont.def"
+ ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdfont.def"
 File: mdfont.def 2013/08/29 v2.31 (Math Design Project)
-)
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdsffont.def"
+) ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdsffont.def
+"
 File: mdsffont.def 2013/08/29 v2.31 (Math Design Project)
-)
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdttfont.def"
+) ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdttfont.def
+"
 File: mdttfont.def 2013/08/29 v2.31 (Math Design Project)
 )
 \symmdcal=\mathgroup4
@@ -148,15 +130,11 @@ LaTeX Font Info:    Overwriting symbol font `lettersupright' in version `bold'
 LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 145.
 LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
 (Font)                  OMS/mdbch/m/n --> OMS/mdbch/m/n on input line 167.
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xkeyval
-\xkeyval.sty"
+ ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\xkeyval\xkeyval.sty"
 Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyv
-al\xkeyval.tex"
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\xkeyv
-al\xkvutils.tex"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\xkeyval\xkeyval.tex"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\xkeyval\xkvutils.tex"
 \XKV@toks=\toks16
 \XKV@tempa@toks=\toks17
 )
@@ -166,8 +144,8 @@ File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 LaTeX Font Info:    Try loading font information for T1+mdbch on input line 186
 .
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbch\t1mdbch.fd"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\t1mdbch.
+fd"
 File: t1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for T1/mdbch.
 )
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
@@ -184,50 +162,39 @@ LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
 LaTeX Font Info:    Redeclaring math accent \widetilde on input line 532.
 LaTeX Font Info:    Redeclaring math accent \widehat on input line 533.
 \rulethickness=\skip43
-)
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\fo
-ntenc.sty"
+) ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1
-enc.def"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\t1enc.def"
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )))
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\in
-putenc.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\inputenc.sty"
 Package: inputenc 2015/03/17 v1.2c Input encoding file
 \inpenc@prehook=\toks19
 \inpenc@posthook=\toks20
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\la
-tin1.def"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\latin1.def"
 File: latin1.def 2015/03/17 v1.2c Input encoding file
 ))
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
-\amsmath.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\amsmath\amsmath.sty"
 Package: amsmath 2016/03/10 v2.15b AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
-\amstext.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\amsmath\amstext.sty"
 Package: amstext 2000/06/29 v2.01 AMS text
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
-\amsgen.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\amsmath\amsgen.sty"
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks21
 \ex@=\dimen111
 ))
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
-\amsbsy.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\amsmath\amsbsy.sty"
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen112
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsmath
-\amsopn.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\amsmath\amsopn.sty"
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count91
@@ -268,26 +235,20 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
 LaTeX Info: Redefining \[ on input line 2739.
 LaTeX Info: Redefining \] on input line 2740.
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\
-xcolor.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\xcolor\xcolor.sty"
 Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00mikte
-x\color.cfg"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\00miktex\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 225.
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pdftex-
-def\pdftex.def"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
-iek\infwarerr.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
-iek\ltxcmds.sty"
+) ("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
 \Gread@gobject=\count103
@@ -301,42 +262,33 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
-)
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\cite\ci
-te.sty"
+) ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\cite\cite.sty"
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\hyphena
-t\hyphenat.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\hyphenat\hyphenat.sty"
 Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
 \langwohyphens=\language75
 LaTeX Info: Redefining \_ on input line 43.
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
-s\graphicx.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\graphics\graphicx.sty"
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
-s\graphics.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\graphics\graphics.sty"
 Package: graphics 2016/05/09 v1.0r Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphic
-s\trig.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\00mikte
-x\graphics.cfg"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\00miktex\graphics.cfg"
 File: graphics.cfg 2016/01/02 v1.10 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 96.
 )
 \Gin@req@height=\dimen120
 \Gin@req@width=\dimen121
-)
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\f
-loat.sty"
+) ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count104
 \float@exts=\toks26
@@ -344,8 +296,7 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks27
 \@floatcapt=\box29
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigu
-re\subfigure.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\subfigure\subfigure.sty"
 Package: subfigure 2002/07/30 v2.1.4 subfigure package
 \subfigtopskip=\skip47
 \subfigcapskip=\skip48
@@ -361,19 +312,14 @@ Package: subfigure 2002/07/30 v2.1.4 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\subfigu
-re\subfigure.cfg")
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\subfigure\subfigure.cfg")
 \subfig@top=\skip51
 \subfig@bottom=\skip52
-)
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\sectsty
-\sectsty.sty"
+) ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\sectsty\sectsty.sty"
 Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading sty
 les
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\titlese
-c\titlesec.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\titlesec\titlesec.sty"
 Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \ttl@box=\box30
 \beforetitleunit=\skip53
@@ -385,20 +331,16 @@ Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
 \titlewidthlast=\dimen127
 \titlewidthfirst=\dimen128
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vhistor
-y\vhistory.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\vhistory\vhistory.sty"
 Package: vhistory 
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\carlisl
-e\ltxtable.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\carlisle\ltxtable.sty"
 Package: ltxtable 1995/12/11 v0.2 longtable/tabularx merge (DPC)
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\t
-abularx.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\tools\tabularx.sty"
 Package: tabularx 2016/02/03 v2.11 `tabularx' package (DPC)
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\a
-rray.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\tools\array.sty"
 Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen129
 \extrarowheight=\dimen130
@@ -414,8 +356,7 @@ Package: array 2014/10/28 v2.4c Tabular extension package (FMi)
 \TX@cols=\count109
 \TX@ftn=\toks30
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\l
-ongtable.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\tools\longtable.sty"
 Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \LTleft=\skip57
 \LTright=\skip58
@@ -433,8 +374,7 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 \c@LT@chunks=\count114
 \LT@p@ftn=\toks31
 ))
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\vhistor
-y\sets.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\vhistory\sets.sty"
 Package: sets 
 \c@s@tlength=\count115
 )
@@ -442,12 +382,10 @@ Reading file architectural_design_specification.hst...
 (architectural_design_specification.hst)
 \vh@verfile=\write3
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\pbox\pb
-ox.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\pbox\pbox.sty"
 Package: pbox 2011/12/07 v1.2 Dynamic parboxes
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\tools\c
-alc.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\tools\calc.sty"
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count116
 \calc@Bcount=\count117
@@ -462,8 +400,7 @@ LaTeX Info: Redefining \addtolength on input line 81.
 )
 \pb@xlen=\skip64
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\fancyhd
-r\fancyhdr.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\fancyhdr\fancyhdr.sty"
 \fancy@headwidth=\skip65
 \f@ncyO@elh=\skip66
 \f@ncyO@erh=\skip67
@@ -474,19 +411,18 @@ r\fancyhdr.sty"
 \f@ncyO@olf=\skip72
 \f@ncyO@orf=\skip73
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\lastpag
-e\lastpage.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\lastpage\lastpage.sty"
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\abstrac
-t\abstract.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\abstract\abstract.sty"
 Package: abstract 2009/06/08 v1.2a configurable abstracts
 \abstitleskip=\skip74
 \absleftindent=\skip75
 \absrightindent=\skip76
 \absparindent=\skip77
 \absparsep=\skip78
-) (architectural_design_specification.aux)
+)
+(architectural_design_specification.aux)
 \openout1 = `architectural_design_specification.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -504,16 +440,14 @@ LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 64.
 LaTeX Font Info:    Try loading font information for MDA+cmr on input line 64.
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdacmr.fd"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdacmr.fd"
 File: mdacmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 64.
 LaTeX Font Info:    Try loading font information for MDB+cmr on input line 64.
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbcmr.fd"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbcmr.fd"
 File: mdbcmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 64.
@@ -552,9 +486,7 @@ LaTeX Font Info:    ... okay on input line 64.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\
-supp-pdf.mkii"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count119
 \scratchdimen=\dimen139
@@ -568,13 +500,11 @@ supp-pdf.mkii"
 \makeMPintoPDFobject=\count124
 \everyMPtoPDFconversion=\toks33
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
-iek\pdftexcmds.sty"
-Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\pdftexcmds.sty
+"
+Package: pdftexcmds 2016/05/10 v0.21 Utility functions of pdfTeX for LuaTeX (HO
 )
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
-iek\ifluatex.sty"
+ ("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
@@ -583,28 +513,22 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
 )
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdie
-k\epstopdf-base.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\oberdiek\epstopdf-base.st
+y"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdie
-k\grfext.sty"
+ ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
-iek\kvdefinekeys.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\kvdefinekeys.s
+ty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 ))
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdie
-k\kvoptions.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
-iek\kvsetkeys.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberd
-iek\etexcmds.sty"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
@@ -625,12 +549,12 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
 (Font)              scaled to size 19.91054pt on input line 67.
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 19.91054pt on input line 67.
- <images/test_image.jpg, id=1, 903.375pt x 677.53125pt>
-File: images/test_image.jpg Graphic file (type jpg)
+ <images/ribbonbanner.jpg, id=1, 256.5585pt x 47.57774pt>
+File: images/ribbonbanner.jpg Graphic file (type jpg)
 
-<use images/test_image.jpg>
-Package pdftex.def Info: images/test_image.jpg used on input line 73.
-(pdftex.def)             Requested size: 281.85587pt x 211.39716pt.
+<use images/ribbonbanner.jpg>
+Package pdftex.def Info: images/ribbonbanner.jpg used on input line 73.
+(pdftex.def)             Requested size: 375.80544pt x 69.6981pt.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 11.52008pt on input line 78.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
@@ -641,8 +565,8 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 8.64006pt on input line 79.
  [1
 
-{C:/Users/Christian Garcia/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <
-./images/test_image.jpg>]
+{H:/Helpful Programs/Miktex/texmfs/data/pdftex/config/pdftex.map} <./images/rib
+bonbanner.jpg>]
 \openout3 = `architectural_design_specification.ver'.
 
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
@@ -658,15 +582,15 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (architectural_design_specification.ver)
 (architectural_design_specification.ver)
 (architectural_design_specification.ver
-Underfull \vbox (badness 10000) detected at line 26
+Underfull \vbox (badness 10000) detected at line 22
  []
 
 ) [2] (architectural_design_specification.toc
 LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 3.
 
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbch\ot1mdbch.fd"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\ot1mdbch
+.fd"
 File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
 )
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
@@ -678,8 +602,8 @@ LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
 LaTeX Font Info:    Try loading font information for OML+mdbch on input line 3.
 
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbch\omlmdbch.fd"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\omlmdbch
+.fd"
 File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
 )
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
@@ -691,8 +615,8 @@ LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
 LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 3.
 
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbch\omsmdbch.fd"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\omsmdbch
+.fd"
 File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
@@ -704,8 +628,8 @@ LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
 LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 3.
 
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbch\omxmdbch.fd"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\omxmdbch
+.fd"
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
@@ -723,8 +647,8 @@ LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
 LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 3.
 
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbch\mdamdbch.fd"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\mdamdbch
+.fd"
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
@@ -736,8 +660,8 @@ LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
 LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 3.
 
 
-("C:\Users\Christian Garcia\AppData\Local\Programs\MiKTeX 2.9\tex\latex\mathdes
-ign\mdbch\mdbmdbch.fd"
+("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\mdbmdbch
+.fd"
 File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
 )
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
@@ -766,7 +690,7 @@ File: images/systemoverview.png Graphic file (type png)
 
 <use images/systemoverview.png>
 Package pdftex.def Info: images/systemoverview.png used on input line 5.
-(pdftex.def)             Requested size: 140.92793pt x 85.29102pt.
+(pdftex.def)             Requested size: 469.75502pt x 284.32172pt.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.52008pt on input line 9.
 ) [6 <./images/systemoverview.png>]
@@ -776,26 +700,17 @@ File: images/LayerBlockDiagram.jpg Graphic file (type jpg)
 
 <use images/LayerBlockDiagram.jpg>
 Package pdftex.def Info: images/LayerBlockDiagram.jpg used on input line 5.
-(pdftex.def)             Requested size: 469.75502pt x 625.19058pt.
-
-
-LaTeX Warning: Float too large for page by 0.7363pt on input line 7.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-) [7] (tex/x_layer_subsystems.tex
+(pdftex.def)             Requested size: 281.85587pt x 375.11928pt.
+) [7 <./images/LayerBlockDiagram.jpg>]
+(tex/x_layer_subsystems.tex
 <images/calendar.jpg, id=31, 126.4725pt x 94.3525pt>
 File: images/calendar.jpg Graphic file (type jpg)
  <use images/calendar.jpg>
 Package pdftex.def Info: images/calendar.jpg used on input line 9.
 (pdftex.def)             Requested size: 281.85587pt x 210.27841pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 10.51207pt on input line 13.
+
 <images/dashboard.jpg, id=32, 129.98563pt x 98.86937pt>
 File: images/dashboard.jpg Graphic file (type jpg)
 
@@ -806,12 +721,12 @@ Package pdftex.def Info: images/dashboard.jpg used on input line 40.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
+[8 <./images/calendar.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 60--60
 []\T1/mdbch/m/n/10.95 true/false state-
  []
 
-<images/management.jpg, id=33, 147.04938pt x 184.69pt>
+<images/management.jpg, id=36, 147.04938pt x 184.69pt>
 File: images/management.jpg Graphic file (type jpg)
 
 <use images/management.jpg>
@@ -821,7 +736,8 @@ Package pdftex.def Info: images/management.jpg used on input line 70.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8] <images/inventory.jpg, id=38, 146.5475pt x 152.06813pt>
+[9 <./images/dashboard.jpg>]
+<images/inventory.jpg, id=41, 146.5475pt x 152.06813pt>
 File: images/inventory.jpg Graphic file (type jpg)
 
 <use images/inventory.jpg>
@@ -831,90 +747,73 @@ Package pdftex.def Info: images/inventory.jpg used on input line 102.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
+[10 <./images/management.jpg>]
 Underfull \hbox (badness 10000) in paragraph at lines 124--124
 []\T1/mdbch/m/n/10.95 true/false state-
  []
 
-) [9] (tex/y_layer_subsystems.tex
-<images/PHPScriptSubsystem.jpg, id=42, 249.18094pt x 153.57375pt>
+) [11 <./images/inventory.jpg>] (tex/y_layer_subsystems.tex
+<images/PHPScriptSubsystem.jpg, id=48, 249.18094pt x 153.57375pt>
 File: images/PHPScriptSubsystem.jpg Graphic file (type jpg)
 
 <use images/PHPScriptSubsystem.jpg>
-Package pdftex.def Info: images/PHPScriptSubsystem.jpg used on input line 11.
+Package pdftex.def Info: images/PHPScriptSubsystem.jpg used on input line 9.
 (pdftex.def)             Requested size: 281.85587pt x 173.72845pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<images/FileStorageSubsystem.jpg, id=43, 213.79875pt x 128.73094pt>
+<images/FileStorageSubsystem.jpg, id=49, 213.79875pt x 128.73094pt>
 File: images/FileStorageSubsystem.jpg Graphic file (type jpg)
 
 <use images/FileStorageSubsystem.jpg>
-Package pdftex.def Info: images/FileStorageSubsystem.jpg used on input line 41.
+Package pdftex.def Info: images/FileStorageSubsystem.jpg used on input line 39.
 
 (pdftex.def)             Requested size: 281.85587pt x 169.72105pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [10] (tex/z_layer_subsystems.tex
-<images/subsystem.png, id=47, 237.13594pt x 242.40562pt>
-File: images/subsystem.png Graphic file (type png)
-
-<use images/subsystem.png>
-Package pdftex.def Info: images/subsystem.png used on input line 8.
-(pdftex.def)             Requested size: 281.85587pt x 288.12965pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 27--27
+[12 <./images/PHPScriptSubsystem.jpg>]) [13 <./images/FileStorageSubsystem.jpg>
+] (tex/z_layer_subsystems.tex
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
 []\T1/mdbch/m/n/10.95 Database is cre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--27
+Underfull \hbox (badness 10000) in paragraph at lines 21--21
 \T1/mdbch/m/n/10.95 ated with given
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 23--23
 []\T1/mdbch/m/n/10.95 Table's Col-umn's
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 29--29
+Underfull \hbox (badness 3138) in paragraph at lines 23--23
 []\T1/mdbch/m/n/10.95 Information filled
  []
 
-) [11]
+) [14]
 No file architectural_design_specification.bbl.
 
 AED: lastpage setting LastPage
-[12 <./images/LayerBlockDiagram.jpg>] [13 <./images/calendar.jpg> <./images/das
-hboard.jpg>] [14 <./images/management.jpg>] [15 <./images/inventory.jpg> <./ima
-ges/PHPScriptSubsystem.jpg>] [16 <./images/FileStorageSubsystem.jpg> <./images/
-subsystem.png>] (architectural_design_specification.aux) ) 
+(architectural_design_specification.aux) ) 
 Here is how much of TeX's memory you used:
- 6174 strings out of 493335
- 90104 string characters out of 3125466
- 153443 words of memory out of 3000000
- 9470 multiletter control sequences out of 15000+200000
+ 6171 strings out of 493335
+ 86992 string characters out of 3131536
+ 152466 words of memory out of 3000000
+ 9466 multiletter control sequences out of 15000+200000
  60304 words of font info for 71 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,16n,43p,653b,342s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Christian G
-arcia/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/fontname/texnansi.enc}<
-C:/Users/Christian Garcia/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/bitstre
-a/charter/bchb8a.pfb><C:/Users/Christian Garcia/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/Christian Garcia/AppData/L
-ocal/Programs/MiKTeX 2.9/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
-Output written on architectural_design_specification.pdf (16 pages, 304233 byte
+ 38i,16n,43p,653b,359s stack positions out of 5000i,500n,10000p,200000b,50000s
+{H:/Helpful Programs/Miktex/texmfs/in
+stall/fonts/enc/dvips/fontname/texnansi.enc}<H:/Helpful Programs/Miktex/texmfs/
+install/fonts/type1/bitstrea/charter/bchb8a.pfb><H:/Helpful Programs/Miktex/tex
+mfs/install/fonts/type1/bitstrea/charter/bchr8a.pfb><H:/Helpful Programs/Miktex
+/texmfs/install/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
+Output written on architectural_design_specification.pdf (14 pages, 257409 byte
 s).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 72 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

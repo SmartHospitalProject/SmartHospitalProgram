@@ -1,9 +1,9 @@
-This section describes our system by presenting it in different layers, illustrating the layer that captures data on the top, and interacting with the lower-level layer on the bottom, the data processing layer. The Data Capture Layer components both obtain information from the Data Processing Layerr, such as current medication stored in the database, and information inputted by the user from the Data Capture Layer into the Data Processing Layer.  
+This section describes our system data flow by presenting it in different layers. A Client layer allows logging in, which passes data to a Server layer, which Communicates to a Database, and sends data to the lower Client layer, the main portion of the website. Data is sent between this bottom layer and the center Server layer frequently while processing new inputs and outputs.
 
 \begin{figure}[h!]
 	\centering
- 	\includegraphics[width=0.3\textwidth]{images/systemoverview}
- \caption{A simple architectural layer diagram}
+ 	\includegraphics[width=1.0\textwidth]{images/systemoverview}
+ \caption{Architectural layer diagram}
 \end{figure}
 
 \subsection{Client}

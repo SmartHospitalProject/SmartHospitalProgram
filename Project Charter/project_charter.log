@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  15 DEC 2016 23:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9) (preloaded format=pdflatex 2016.7.6)  16 DEC 2016 00:05
 entering extended mode
-**./detailed_design_specification.tex
-(detailed_design_specification.tex
+**./project_charter.tex
+(project_charter.tex
 LaTeX2e <2016/03/31>
 Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\base\article.cls"
@@ -378,79 +378,61 @@ Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
 Package: sets 
 \c@s@tlength=\count115
 )
-Reading file detailed_design_specification.hst...
-(detailed_design_specification.hst)
+Reading file project_charter.hst...
+(project_charter.hst)
 \vh@verfile=\write3
 )
-("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\pbox\pbox.sty"
-Package: pbox 2011/12/07 v1.2 Dynamic parboxes
-
-("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\tools\calc.sty"
-Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count116
-\calc@Bcount=\count117
-\calc@Adimen=\dimen137
-\calc@Bdimen=\dimen138
-\calc@Askip=\skip61
-\calc@Bskip=\skip62
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count118
-\calc@Cskip=\skip63
-)
-\pb@xlen=\skip64
-)
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\fancyhdr\fancyhdr.sty"
-\fancy@headwidth=\skip65
-\f@ncyO@elh=\skip66
-\f@ncyO@erh=\skip67
-\f@ncyO@olh=\skip68
-\f@ncyO@orh=\skip69
-\f@ncyO@elf=\skip70
-\f@ncyO@erf=\skip71
-\f@ncyO@olf=\skip72
-\f@ncyO@orf=\skip73
+\fancy@headwidth=\skip61
+\f@ncyO@elh=\skip62
+\f@ncyO@erh=\skip63
+\f@ncyO@olh=\skip64
+\f@ncyO@orh=\skip65
+\f@ncyO@elf=\skip66
+\f@ncyO@erf=\skip67
+\f@ncyO@olf=\skip68
+\f@ncyO@orf=\skip69
 )
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\lastpage\lastpage.sty"
 Package: lastpage 2015/03/29 v1.2m Refers to last page's name (HMM; JPG)
 )
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\abstract\abstract.sty"
 Package: abstract 2009/06/08 v1.2a configurable abstracts
-\abstitleskip=\skip74
-\absleftindent=\skip75
-\absrightindent=\skip76
-\absparindent=\skip77
-\absparsep=\skip78
+\abstitleskip=\skip70
+\absleftindent=\skip71
+\absrightindent=\skip72
+\absparindent=\skip73
+\absparsep=\skip74
 )
-(detailed_design_specification.aux)
-\openout1 = `detailed_design_specification.aux'.
+(project_charter.aux)
+\openout1 = `project_charter.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 64.
-LaTeX Font Info:    Try loading font information for MDA+cmr on input line 64.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 63.
 
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdacmr.fd"
 File: mdacmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 64.
-LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 64.
-LaTeX Font Info:    Try loading font information for MDB+cmr on input line 64.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 63.
+LaTeX Font Info:    Try loading font information for MDB+cmr on input line 63.
 
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbcmr.fd"
 File: mdbcmr.fd 
 )
-LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    ... okay on input line 63.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -488,16 +470,16 @@ LaTeX Font Info:    ... okay on input line 64.
 
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count119
-\scratchdimen=\dimen139
+\scratchcounter=\count116
+\scratchdimen=\dimen137
 \scratchbox=\box35
-\nofMPsegments=\count120
-\nofMParguments=\count121
+\nofMPsegments=\count117
+\nofMParguments=\count118
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count122
-\MPscratchDim=\dimen140
-\MPnumerator=\count123
-\makeMPintoPDFobject=\count124
+\MPscratchCnt=\count119
+\MPscratchDim=\dimen138
+\MPnumerator=\count120
+\makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks33
 )
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\generic\oberdiek\pdftexcmds.sty
@@ -542,228 +524,188 @@ G,.JBIG2,.JB2,.eps]
 )
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 64.
+(lastpage)             ! on input line 63.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 19.91054pt on input line 67.
+(Font)              scaled to size 19.91054pt on input line 66.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 19.91054pt on input line 67.
+(Font)              scaled to size 19.91054pt on input line 66.
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
-(Font)              scaled to size 19.91054pt on input line 67.
+(Font)              scaled to size 19.91054pt on input line 66.
  <images/ribbonbanner.jpg, id=1, 256.5585pt x 47.57774pt>
 File: images/ribbonbanner.jpg Graphic file (type jpg)
 
 <use images/ribbonbanner.jpg>
-Package pdftex.def Info: images/ribbonbanner.jpg used on input line 73.
+Package pdftex.def Info: images/ribbonbanner.jpg used on input line 72.
 (pdftex.def)             Requested size: 281.85587pt x 52.27394pt.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 11.52008pt on input line 78.
+(Font)              scaled to size 11.52008pt on input line 77.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 11.52008pt on input line 78.
+(Font)              scaled to size 11.52008pt on input line 77.
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
-(Font)              scaled to size 11.52008pt on input line 78.
+(Font)              scaled to size 11.52008pt on input line 77.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 79.
+(Font)              scaled to size 8.64006pt on input line 78.
  [1
 
 {H:/Helpful Programs/Miktex/texmfs/data/pdftex/config/pdftex.map} <./images/rib
 bonbanner.jpg>]
-\openout3 = `detailed_design_specification.ver'.
+\openout3 = `project_charter.ver'.
 
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 13.82408pt on input line 87.
+(Font)              scaled to size 13.82408pt on input line 86.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 13.82408pt on input line 87.
+(Font)              scaled to size 13.82408pt on input line 86.
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
-(Font)              scaled to size 13.82408pt on input line 87.
+(Font)              scaled to size 13.82408pt on input line 86.
 \vh@hstfile=\write4
-\openout4 = `detailed_design_specification.hst'.
+\openout4 = `project_charter.hst'.
+
+ (project_charter.ver)
+(project_charter.ver) (project_charter.ver
+Underfull \hbox (badness 1205) in paragraph at lines 12--13
+[]|\T1/mdbch/m/n/10.95 AJ, EF, NR, NH,
+ []
 
 
-(detailed_design_specification.ver) (detailed_design_specification.ver)
-(detailed_design_specification.ver
 Underfull \vbox (badness 10000) detected at line 22
  []
 
-) [2] (detailed_design_specification.toc
-LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 4.
-
+) [2] (project_charter.toc
+LaTeX Font Info:    Try loading font information for OT1+mdbch on input line 10
+.
 
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\ot1mdbch
 .fd"
 File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
 )
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 4.
+(Font)              scaled to size 10.51207pt on input line 10.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 4.
+(Font)              scaled to size 7.68005pt on input line 10.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 4.
-LaTeX Font Info:    Try loading font information for OML+mdbch on input line 4.
-
+(Font)              scaled to size 5.76004pt on input line 10.
+LaTeX Font Info:    Try loading font information for OML+mdbch on input line 10
+.
 
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\omlmdbch
 .fd"
 File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
 )
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 10.51207pt on input line 4.
+(Font)              scaled to size 10.51207pt on input line 10.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 7.68005pt on input line 4.
+(Font)              scaled to size 7.68005pt on input line 10.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.76004pt on input line 4.
-LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 4.
-
+(Font)              scaled to size 5.76004pt on input line 10.
+LaTeX Font Info:    Try loading font information for OMS+mdbch on input line 10
+.
 
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\omsmdbch
 .fd"
 File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
 )
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 4.
+(Font)              scaled to size 10.51207pt on input line 10.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 4.
+(Font)              scaled to size 7.68005pt on input line 10.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 4.
-LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 4.
-
+(Font)              scaled to size 5.76004pt on input line 10.
+LaTeX Font Info:    Try loading font information for OMX+mdbch on input line 10
+.
 
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\omxmdbch
 .fd"
 File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
 )
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 4.
+(Font)              scaled to size 10.51207pt on input line 10.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 4.
+(Font)              scaled to size 7.68005pt on input line 10.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 4.
+(Font)              scaled to size 5.76004pt on input line 10.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 4.
+(Font)              scaled to size 10.51207pt on input line 10.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 4.
+(Font)              scaled to size 7.68005pt on input line 10.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 4.
-LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 4.
-
+(Font)              scaled to size 5.76004pt on input line 10.
+LaTeX Font Info:    Try loading font information for MDA+mdbch on input line 10
+.
 
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\mdamdbch
 .fd"
 File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
 )
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 4.
+(Font)              scaled to size 10.51207pt on input line 10.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 4.
+(Font)              scaled to size 7.68005pt on input line 10.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 4.
-LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 4.
-
+(Font)              scaled to size 5.76004pt on input line 10.
+LaTeX Font Info:    Try loading font information for MDB+mdbch on input line 10
+.
 
 ("H:\Helpful Programs\Miktex\texmfs\install\tex\latex\mathdesign\mdbch\mdbmdbch
 .fd"
 File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
 )
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 10.51207pt on input line 4.
+(Font)              scaled to size 10.51207pt on input line 10.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 7.68005pt on input line 4.
+(Font)              scaled to size 7.68005pt on input line 10.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 4.
+(Font)              scaled to size 5.76004pt on input line 10.
 )
 \tf@toc=\write5
-\openout5 = `detailed_design_specification.toc'.
+\openout5 = `project_charter.toc'.
 
- [3] (detailed_design_specification.lof)
+ [3] (project_charter.lof)
 \tf@lof=\write6
-\openout6 = `detailed_design_specification.lof'.
+\openout6 = `project_charter.lof'.
 
-
-(detailed_design_specification.lot)
-\tf@lot=\write7
-\openout7 = `detailed_design_specification.lot'.
-
- [4] (tex/introduction.tex)
-(tex/system_overview.tex
-<images/LayerBlockDiagramWithSubsystems.jpg, id=17, 422.32782pt x 359.84438pt>
-File: images/LayerBlockDiagramWithSubsystems.jpg Graphic file (type jpg)
-
-<use images/LayerBlockDiagramWithSubsystems.jpg>
-Package pdftex.def Info: images/LayerBlockDiagramWithSubsystems.jpg used on inp
-ut line 5.
-(pdftex.def)             Requested size: 469.75502pt x 400.26657pt.
-) [5 <./images/LayerBlockDiagramWithSubsystems.jpg>] (tex/x_layer_subsystems.te
-x
+ [4] (tex/vision.tex) (tex/mission.tex)
+(tex/success_criteria.tex) [5] (tex/background.tex) (tex/related_work.tex)
+(tex/system_overview.tex) (tex/roles_responsibilities.tex)
+(tex/facilities_equipment.tex) (tex/cost_proposal.tex [6]
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 11.52008pt on input line 4.
-
-<images/calendar.jpg, id=21, 126.4725pt x 94.3525pt>
-File: images/calendar.jpg Graphic file (type jpg)
- <use images/calendar.jpg>
-Package pdftex.def Info: images/calendar.jpg used on input line 12.
-(pdftex.def)             Requested size: 187.89914pt x 140.18225pt.
+(Font)              scaled to size 11.52008pt on input line 3.
+)
+(tex/documentation_reporting.tex
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
-(Font)              scaled to size 10.51207pt on input line 16.
+(Font)              scaled to size 10.51207pt on input line 12.
 
-<images/dashboard.jpg, id=22, 129.98563pt x 98.86937pt>
-File: images/dashboard.jpg Graphic file (type jpg)
+<images/test_image.jpg, id=25, 361.35pt x 216.81pt>
+File: images/test_image.jpg Graphic file (type jpg)
 
-<use images/dashboard.jpg>
-Package pdftex.def Info: images/dashboard.jpg used on input line 28.
-(pdftex.def)             Requested size: 187.89914pt x 142.9194pt.
- [6 <./images/calendar.jpg> <./images/dashboard.jpg>] <images/management.jpg, i
-d=26, 147.04938pt x 184.69pt>
-File: images/management.jpg Graphic file (type jpg)
-
-<use images/management.jpg>
-Package pdftex.def Info: images/management.jpg used on input line 45.
-(pdftex.def)             Requested size: 187.89914pt x 235.99937pt.
-
-<images/inventory.jpg, id=27, 146.5475pt x 152.06813pt>
-File: images/inventory.jpg Graphic file (type jpg)
-
-<use images/inventory.jpg>
-Package pdftex.def Info: images/inventory.jpg used on input line 64.
-(pdftex.def)             Requested size: 187.89914pt x 194.97601pt.
+<use images/test_image.jpg>
+Package pdftex.def Info: images/test_image.jpg used on input line 26.
+(pdftex.def)             Requested size: 234.8775pt x 140.92813pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) [7 <./images/management.jpg>] (tex/y_layer_subsystems.tex
-<images/PHPScriptSubsystem.jpg, id=32, 249.18094pt x 153.57375pt>
-File: images/PHPScriptSubsystem.jpg Graphic file (type jpg)
-
-<use images/PHPScriptSubsystem.jpg>
-Package pdftex.def Info: images/PHPScriptSubsystem.jpg used on input line 11.
-(pdftex.def)             Requested size: 281.85587pt x 173.72845pt.
- [8 <./images/inventory.jpg> <./images/PHPScriptSubsystem.jpg>]
-<images/FileStorageSubsystem.jpg, id=36, 213.79875pt x 128.73094pt>
-File: images/FileStorageSubsystem.jpg Graphic file (type jpg)
-
-<use images/FileStorageSubsystem.jpg>
-Package pdftex.def Info: images/FileStorageSubsystem.jpg used on input line 26.
-
-(pdftex.def)             Requested size: 187.89914pt x 113.13623pt.
-) [9 <./images/FileStorageSubsystem.jpg>]
-(tex/z_layer_subsystems.tex) [10]
-No file detailed_design_specification.bbl.
+[7] [8 <./images/test_image.jpg>]) [9]
+No file project_charter.bbl.
 
 AED: lastpage setting LastPage
-(detailed_design_specification.aux) ) 
+(project_charter.aux) ) 
 Here is how much of TeX's memory you used:
- 6161 strings out of 493335
- 86739 string characters out of 3131536
- 150456 words of memory out of 3000000
- 9460 multiletter control sequences out of 15000+200000
- 60304 words of font info for 71 fonts, out of 3000000 for 9000
+ 6044 strings out of 493335
+ 84329 string characters out of 3131536
+ 150220 words of memory out of 3000000
+ 9343 multiletter control sequences out of 15000+200000
+ 60603 words of font info for 72 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 38i,12n,43p,685b,363s stack positions out of 5000i,500n,10000p,200000b,50000s
-{H:/Helpful Programs/Miktex/texmfs/install
-/fonts/enc/dvips/fontname/texnansi.enc}<H:/Helpful Programs/Miktex/texmfs/insta
-ll/fonts/type1/bitstrea/charter/bchb8a.pfb><H:/Helpful Programs/Miktex/texmfs/i
-nstall/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on detailed_design_specification.pdf (10 pages, 226573 bytes).
+ 38i,11n,43p,1265b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
+{H:/Helpful Programs/Miktex/texmfs/install/fonts/enc/dvi
+ps/fontname/texnansi.enc}<H:/Helpful Programs/Miktex/texmfs/install/fonts/type1
+/bitstrea/charter/bchb8a.pfb><H:/Helpful Programs/Miktex/texmfs/install/fonts/t
+ype1/bitstrea/charter/bchr8a.pfb><H:/Helpful Programs/Miktex/texmfs/install/fon
+ts/type1/mathdesign/mdbch/md-chr7y.pfb><H:/Helpful Programs/Miktex/texmfs/insta
+ll/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
+Output written on project_charter.pdf (9 pages, 105652 bytes).
 PDF statistics:
- 52 PDF objects out of 1000 (max. 8388607)
+ 51 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 

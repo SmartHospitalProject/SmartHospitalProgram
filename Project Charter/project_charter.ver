@@ -3,20 +3,20 @@
  & \textbf {\vhdatename }
  & \textbf {\vhauthorname }
  & \textbf {\vhchangename }\\\hline 
-0.1
- & 10.01.2016
- & \listset {NH}
+0.0.1
+ & 06.28.2016
+ & \listset {EF}
  & document creation\\\hline 
-0.2
- & 12.04.2015
- & \listset {NH}
- & partial draft\\\hline 
-0.3
- & 12.09.2016
- & \listset {AJ|EF|VG}
- & release candidate 1\\\hline 
-1.0
+0.0.2
+ & 07.07.2016
+ & \listset {AJ|EF|NR|NH|VG}
+ & Turn-in candidate 1\\\hline 
+0.1.0
+ & 07.08.2016
+ & \listset {EF}
+ & First Turn-in\\\hline 
+1.0.0
  & 12.16.2016
  & \listset {EF}
- & official release\\\hline 
+ & Release\\\hline 
 \end {longtable}

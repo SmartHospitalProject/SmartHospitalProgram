@@ -4,34 +4,34 @@
 \contentsline {subsection}{\numberline {2.2}Server}{6}
 \contentsline {subsection}{\numberline {2.3}Data}{6}
 \contentsline {section}{\numberline {3}Subsystem Definitions \& Data Flow}{7}
-\contentsline {section}{\numberline {4}X Layer Subsystems}{8}
+\contentsline {section}{\numberline {4}Client Layer Subsystems}{8}
 \contentsline {subsection}{\numberline {4.1}Calendar}{8}
 \contentsline {subsubsection}{\numberline {4.1.1}Assumptions}{8}
 \contentsline {subsubsection}{\numberline {4.1.2}Responsibilities}{8}
 \contentsline {subsubsection}{\numberline {4.1.3}Subsystem Interfaces}{8}
 \contentsline {subsection}{\numberline {4.2}Dashboard}{8}
 \contentsline {subsubsection}{\numberline {4.2.1}Assumptions}{8}
-\contentsline {subsubsection}{\numberline {4.2.2}Responsibilities}{8}
-\contentsline {subsubsection}{\numberline {4.2.3}Subsystem Interfaces}{8}
-\contentsline {subsection}{\numberline {4.3}Management}{8}
-\contentsline {subsubsection}{\numberline {4.3.1}Assumptions}{8}
+\contentsline {subsubsection}{\numberline {4.2.2}Responsibilities}{9}
+\contentsline {subsubsection}{\numberline {4.2.3}Subsystem Interfaces}{9}
+\contentsline {subsection}{\numberline {4.3}Management}{9}
+\contentsline {subsubsection}{\numberline {4.3.1}Assumptions}{9}
 \contentsline {subsubsection}{\numberline {4.3.2}Responsibilities}{9}
-\contentsline {subsubsection}{\numberline {4.3.3}Subsystem Interfaces}{9}
-\contentsline {subsection}{\numberline {4.4}Inventory}{9}
-\contentsline {subsubsection}{\numberline {4.4.1}Assumptions}{9}
-\contentsline {subsubsection}{\numberline {4.4.2}Responsibilities}{9}
-\contentsline {subsubsection}{\numberline {4.4.3}Subsystem Interfaces}{9}
-\contentsline {section}{\numberline {5}Y Layer Subsystems}{10}
-\contentsline {subsection}{\numberline {5.1}PHP Scripts and Interfaces}{10}
-\contentsline {subsubsection}{\numberline {5.1.1}Assumptions}{10}
-\contentsline {subsubsection}{\numberline {5.1.2}Responsibilities}{10}
-\contentsline {subsubsection}{\numberline {5.1.3}Subsystem Interfaces}{10}
-\contentsline {subsection}{\numberline {5.2}Static File Storage}{10}
-\contentsline {subsubsection}{\numberline {5.2.1}Assumptions}{10}
-\contentsline {subsubsection}{\numberline {5.2.2}Responsibilities}{10}
-\contentsline {subsubsection}{\numberline {5.2.3}Subsystem Interfaces}{10}
-\contentsline {section}{\numberline {6}Z Layer Subsystems}{11}
-\contentsline {subsection}{\numberline {6.1}Database Tables}{11}
-\contentsline {subsubsection}{\numberline {6.1.1}Assumptions}{11}
-\contentsline {subsubsection}{\numberline {6.1.2}Responsibilities}{11}
-\contentsline {subsubsection}{\numberline {6.1.3}Subsystem Interfaces}{11}
+\contentsline {subsubsection}{\numberline {4.3.3}Subsystem Interfaces}{10}
+\contentsline {subsection}{\numberline {4.4}Inventory}{10}
+\contentsline {subsubsection}{\numberline {4.4.1}Assumptions}{10}
+\contentsline {subsubsection}{\numberline {4.4.2}Responsibilities}{11}
+\contentsline {subsubsection}{\numberline {4.4.3}Subsystem Interfaces}{11}
+\contentsline {section}{\numberline {5}Server Layer Subsystems}{12}
+\contentsline {subsection}{\numberline {5.1}PHP Scripts and Interfaces}{12}
+\contentsline {subsubsection}{\numberline {5.1.1}Assumptions}{12}
+\contentsline {subsubsection}{\numberline {5.1.2}Responsibilities}{12}
+\contentsline {subsubsection}{\numberline {5.1.3}Subsystem Interfaces}{12}
+\contentsline {subsection}{\numberline {5.2}Static File Storage}{12}
+\contentsline {subsubsection}{\numberline {5.2.1}Assumptions}{13}
+\contentsline {subsubsection}{\numberline {5.2.2}Responsibilities}{13}
+\contentsline {subsubsection}{\numberline {5.2.3}Subsystem Interfaces}{13}
+\contentsline {section}{\numberline {6}Database Layer Subsystems}{14}
+\contentsline {subsection}{\numberline {6.1}Database Tables}{14}
+\contentsline {subsubsection}{\numberline {6.1.1}Assumptions}{14}
+\contentsline {subsubsection}{\numberline {6.1.2}Responsibilities}{14}
+\contentsline {subsubsection}{\numberline {6.1.3}Subsystem Interfaces}{14}
